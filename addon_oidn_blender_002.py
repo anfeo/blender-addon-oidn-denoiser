@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Intel Denoise",
     "author": "Alfonso Annarumma",
-    "version": (1, 5, 4),
+    "version": (0, 0, 2),
     "blender": (2, 76, 0),
     "location": "Toolshelf > Intel Denoise",
     "warning": "",
